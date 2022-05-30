@@ -7,7 +7,7 @@
   
 :mortar_board:Ewha Womans Univ. Cyber Security _ B.E.
 
-<img src="https://img.shields.io/badge/Python-3776?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 </div>
 
