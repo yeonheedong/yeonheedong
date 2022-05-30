@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Yeonhee%20Kim&fontSize=45)
+![header](https://capsule-render.vercel.app/api?color=auto&height=150&section=header&text=Yeonhee%20Kim&fontSize=45)
 
 
 <div align="center">
